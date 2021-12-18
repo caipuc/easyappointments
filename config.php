@@ -38,7 +38,7 @@ class Config {
     // DATABASE SETTINGS
     // ------------------------------------------------------------------------
 
-    const DB_HOST       = 'ec2-54-205-149-187.compute-1.amazonaws.com';
+    const DB_HOST       = 'ec2-54-205-149-187.compute-1.amazonaws.com:5432';
     const DB_NAME       = 'd589odjic1i4sm';
     const DB_USERNAME   = 'hezgminbcazjdj';
     const DB_PASSWORD   = '186d6c7318e28e3b23c2321ec3f533cd21be888a8972713812c62e2669009ed9';
