@@ -30,7 +30,7 @@ class Config {
     // GENERAL SETTINGS
     // ------------------------------------------------------------------------
 
-    const BASE_URL      = 'http://url-to-easyappointments-directory';
+    const BASE_URL      = 'http://salascai.herokuapp.com';
     const LANGUAGE      = 'english';
     const DEBUG_MODE    = FALSE;
 
@@ -38,10 +38,10 @@ class Config {
     // DATABASE SETTINGS
     // ------------------------------------------------------------------------
 
-    const DB_HOST       = 'localhost';
-    const DB_NAME       = 'easyappointments';
-    const DB_USERNAME   = 'root';
-    const DB_PASSWORD   = 'root';
+    const DB_HOST       = 'ec2-54-205-149-187.compute-1.amazonaws.com';
+    const DB_NAME       = 'd589odjic1i4sm';
+    const DB_USERNAME   = 'hezgminbcazjdj';
+    const DB_PASSWORD   = '186d6c7318e28e3b23c2321ec3f533cd21be888a8972713812c62e2669009ed9';
 
     // ------------------------------------------------------------------------
     // GOOGLE CALENDAR SYNC
